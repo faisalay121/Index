@@ -1,0 +1,188 @@
+body{
+    background-color: blue;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+    text-align: center;
+    color: 00FFFF;
+}
+
+.hubungiSaya{
+    background-color: 00FFFF;
+}
+
+.menu-atas{
+    word-spacing: 20px;
+    position: relative;
+    margin: auto 50px auto 700px;
+    text-align: right;
+    font-size: 17px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    color: #06623b;
+}
+
+span{
+    word-spacing: 5px;
+}
+
+.atas-foto{
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    width: 80px;
+    height: 80px;
+    float: left;
+    position: relative;
+    margin: 10px 10px 0px 10px;
+}
+
+.nama-main{
+    margin-top: 100px;
+    margin-right: auto;
+    color: black;
+}
+
+.iam{
+    font-family: 'Parisienne', cursive;
+    font-size: 50px;
+    line-height: 0;
+}
+
+.ceo{
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 25px;
+    color: #06623b;
+}
+
+.gambar-gedung{
+    height: 450px;
+}
+
+.jalan{
+    border-style: solid none none none;
+    border-width: 10px;
+    width: auto;
+    border-color: grey;
+    margin: 0px;
+}
+
+.deskripsi-diri{
+    margin: auto;
+    width: 500px;
+    line-height: 1.5;
+}
+
+.profil-diri{
+    margin-top: 100px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+}
+
+.tengah-foto{
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.sekolah{
+    border-radius: 50%;
+    background-color: plum;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.organisasi{
+    border-radius: 50%;
+    background-color: red;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+.matkul{
+    border-radius: 50%;
+    background-color: green;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.konten{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: left;
+}
+
+hr{
+    width: 40%;
+    border-style: dashed none none none;
+    border-width: 5px;
+    margin-top: 100px;
+    border-color: wheat;
+}
+
+table{
+   width: 60%;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 15px;
+}
+
+.line-konten{
+    margin-top: 100px;
+    width: 20%;
+}
+
+.menu-bawah{
+    word-spacing: 20px;
+    font-size: 17px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 200;
+    color: #06623b;
+}
+
+.sosmed-bawah{
+    word-spacing: 35px;
+    font-size: 20px;
+    font-family: 'Acme', sans-serif;
+    color: black;
+}
+
+.line-bawah{
+    width: 10%;
+    border-style: solid none none none;
+    border-width: 2px;
+    margin: auto;
+    border-color: black;
+}
+
+.bawah{
+    height: 150px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #27496d;
+}
+
+.sebagian{
+    background-color: greenyellow;
+}
+
+a{
+    text-decoration: none;
+}
